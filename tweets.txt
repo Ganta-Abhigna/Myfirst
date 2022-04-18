@@ -6,3 +6,6 @@ genetic diversity.[30] Settled life emerged on the subcontinent
 in the western margins of the Indus river basin 9,000 years ago,
 evolving gradually into the Indus Valley Civilisation of the third
 millennium BCE.[31] By 1200 BCE, an archaic form of Sanskrit, an I
+
+all changes made
+updated and pushed the contents to git
